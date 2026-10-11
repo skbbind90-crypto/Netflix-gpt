@@ -1,9 +1,11 @@
 # Netflix gpt
-creat react app
-configured tailwindCSS
+-creat react app
+ -configured tailwindCSS
+ -Header
+ -Login Form
 
 # Features
--Login/Sign Up
+-Login/Sign Up 
     -Sign In /Sign up form
     -redirect to Browse Page
 -browser(after authenticaton)

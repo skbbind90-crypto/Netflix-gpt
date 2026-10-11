@@ -1,9 +1,11 @@
-﻿import Login from './components/Login'
+import Body from "./components/Body";
 
 function App() {
-  return <div className="text-3xl font-bold text-green-800">
-    Let's build Netflix-gpt
+  return (
+    <div>
+      <Body />
     </div>
+  );
 }
 
-export default App
+export default App;
